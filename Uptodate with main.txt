@@ -1,0 +1,1 @@
+After I clicked on Update from main in GitHub and created pull request twice and merged it, now it says main and uat are up to date.
